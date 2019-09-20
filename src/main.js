@@ -3,7 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import vuex from 'vuex'
+import axios from 'axios'
+import 'mand-mobile/lib/mand-mobile.css'
 
+Vue.use(vuex)
+Vue.prototype.$axios = axios
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
