@@ -1,0 +1,79 @@
+{
+  "id": "1342328",
+  "name": "qunaer",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2926064",
+      "name": "手 点赞svg-01",
+      "font_class": "shoudianzansvg-",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "4131662",
+      "name": "卖房 人民币 房子 线性",
+      "font_class": "maifangrenminbifangzixianxing",
+      "unicode": "e847",
+      "unicode_decimal": 59463
+    },
+    {
+      "icon_id": "6543358",
+      "name": "v",
+      "font_class": "v",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "8642437",
+      "name": "右箭头",
+      "font_class": "arrow-left",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8775539",
+      "name": "省略号",
+      "font_class": "shenglvehao",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "8978975",
+      "name": "左右",
+      "font_class": "zuoyou",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "9549732",
+      "name": "还款",
+      "font_class": "huankuan_c",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "9834303",
+      "name": "上箭头",
+      "font_class": "up-copy-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "10172220",
+      "name": "耳机",
+      "font_class": "headset",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10984209",
+      "name": "左箭头",
+      "font_class": "prev-copy",
+      "unicode": "ec41",
+      "unicode_decimal": 60481
+    }
+  ]
+}
